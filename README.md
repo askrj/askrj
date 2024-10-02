@@ -3,7 +3,7 @@
 
 
 <p>- 🔭 Hoje trabalho como administrador de banco de dados oracle</P>
-- 🌱 Faço alguns trabalhos de programação C#<BR/>
+- 🌱 Faço trabalhos de programação C#<BR/>
 - 🌱 Estudo Blazor para Frontends .NET<BR/>
 - 💬 Fale comigo pelo whatsapp (81) 9-8348-1440<BR/>
 - 📫 Contate-me no e-mail: ask.rj10@gmail.com<BR/>
